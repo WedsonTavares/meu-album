@@ -1,0 +1,24 @@
+botooes #8372db
+
+rgb(131,114,219)
+ --------------------------------
+ 
+ header e sessçoes 
+
+ #ffffff
+
+rgb(255,255,255)
+
+-------------------------------
+ letras de titulos e etc
+
+ #292d54
+
+rgb(41,45,84)
+------------------------------------
+letras mais claras pra links e etc
+
+#747690
+
+rgb(116,118,144)
+
